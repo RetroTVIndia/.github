@@ -11,7 +11,12 @@ RetroTVIndia is all about reliving your favorite childhood and vintage TV moment
 - 🎞️ Curated playlists of classic Indian TV shows and cartoons  
 - 🧭 Easy-to-navigate interface for browsing decades of content  
 - ▶️ Video links and resources primarily hosted on YouTube  
-- 🇮🇳 Focused on content dubbed in Hindi for wider accessibility  
+- 🇮🇳 Focused on content dubbed in Hindi for wider accessibility
+
+## 📺 Sneak Peek
+Here is a glimpse of the current RetroTVIndia interface, bringing nostalgia back to your screen!
+
+https://github.com/user-attachments/assets/4dabf0df-bf6a-4902-bd89-ee4d5ae8d5ef
 
 ## 🛠️ Tech Stack
 - **Frontend:** React ⚛️, Tailwind CSS 🎨  
